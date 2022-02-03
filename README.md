@@ -20,5 +20,6 @@
 - - [x] 8 argolas Inox.                     
 - - [x] 16 parafusos e bucha p/parede de 6mm.
 - - [x] 4 tensionadores                     internet.
+- - [x] 2 barras de metal 1,2m de comprimento, 16mm de diametro.
 - [x] Realização das marcações e furos na parede. 
 - [x] Instalação das partes.
