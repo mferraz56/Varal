@@ -3,7 +3,7 @@
 
 <h1 align="center"> Varal Com Partes Impressas </h1>
 
-![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/Modelagem/Imagens/vis%C3%A3o.gif)
+![alt text](https://github.com/mferraz56/Varal/blob/main/modelagem%20e%20impress%C3%A3o/pe%C3%A7a%20montada.gif)
 
 <p align="center"> O intuito do projeto foi desenvolver o produto para uso pessoal, com o intuito de ser duravel e de fácil manuseio e substituição caso necessario. Capaz de suportar a utilização do dia a dia com uma segurança maior, de que ao ir recolher as peças não esteja tudo no chão devido a arrebentar a corda, soltar o gancho da parede ou até mesmo a bucha.</p>
 
