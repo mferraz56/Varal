@@ -3,7 +3,7 @@
 <h1 align="center"> Varal Com Partes Impressas </h1>
 
 <p align="center"> Foi realizada modelagem da peça utilizando do software fusion 360.</p>
-[<img src="https://img.youtube.com/vi/4a_MttCcs08/maxresdefault.jpg" width="50%">](https://youtu.be/4a_MttCcs08)
+[!<img src="https://img.youtube.com/vi/4a_MttCcs08/maxresdefault.jpg" width="50%">](https://youtu.be/4a_MttCcs08)
 <p align="center"> Clique na imagem para assistir o video.</p>
 
 
